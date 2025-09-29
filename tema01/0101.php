@@ -1,4 +1,4 @@
-<!-- <?php  /* Oppgave 1 */
+<?php  /* Oppgave 1 */
 /*
 /* 
 /*
