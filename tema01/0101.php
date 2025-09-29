@@ -4,5 +4,5 @@
 /*
 */
 $fornavn=$_POST ["fornavn"];
-print("hei $fornavn")
+print("hei $fornavn");
 ?> 
