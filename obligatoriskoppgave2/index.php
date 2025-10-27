@@ -9,10 +9,10 @@
   <h1>Velkommen til databasevedlikehold</h1>
   <p>Velg en handling:</p>
   <ul>
-    <li><a href="klasse_vis.php">Vis klasser</a></li>
+    <li><a href="klasse.php">Vis klasser</a></li>
     <li><a href="klasse_registrer.php">Registrer ny klasse</a></li>
     <li><a href="slettklasse.php">Slett klasse</a></li>
-    <li><a href="student_vis.php">Vis studenter</a></li>
+    <li><a href="student.php">Vis studenter</a></li>
     <li><a href="student_registrer.php">Registrer ny student</a></li>
     <li><a href="student_slett.php">Slett student</a></li>
   </ul>
