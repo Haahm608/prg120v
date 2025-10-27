@@ -1,4 +1,4 @@
-<?php include "db.php"; ?>
+<?php include "dbtil.php";include ("index.php");  ?>
 <h2>Alle klasser</h2>
 <table border="1">
 <tr><th>Klassekode</th><th>Klassenavn</th><th>Studiumkode</th></tr>
